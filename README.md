@@ -11,3 +11,7 @@ Sample
 # Deployment
 
 N!SS
+
+# Copyright
+
+Do not copyright.
