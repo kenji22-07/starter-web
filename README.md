@@ -2,9 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 
-Editing the file some more
-
-Another edit below here
+NNN!
 
 ## Purpose
 
