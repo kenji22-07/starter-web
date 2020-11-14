@@ -8,10 +8,14 @@ NNN!
 
 Sample
 
-# Deployment
+## Deployment
 
 N!SS
 
-# Copyright
+## Copyright
 
 Do not copyright.
+
+### How to Contribute
+
+Please fork this repository
