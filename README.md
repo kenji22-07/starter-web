@@ -14,7 +14,7 @@ N!SS
 
 ## Copyright
 
-Do not copyright.
+2014 Git Training.
 
 ### How to Contribute
 
