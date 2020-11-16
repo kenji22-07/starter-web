@@ -6,7 +6,7 @@ NNN!
 
 ## Purpose
 
-Sample
+Sample. Another texts
 
 ## Deployment
 
